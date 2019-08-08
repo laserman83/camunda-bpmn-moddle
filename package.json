@@ -1,6 +1,6 @@
 {
   "name": "camunda-bpmn-moddle-es6",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Camunda moddle extensions for BPMN 2.0 with ES6 import",
   "scripts": {
     "all": "grunt",
@@ -30,21 +30,21 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "async": "^1.5.0",
-    "bpmn-moddle": "^0.14.0",
-    "chai": "^1.9.1",
-    "eslint": "^2.11.1",
-    "eslint-plugin-mocha": "^2.2.0",
-    "glob": "^6.0.1",
-    "grunt": "^0.4.2",
-    "grunt-cli": "^1.2.0",
-    "grunt-contrib-watch": "^0.5.0",
-    "grunt-eslint": "^18.1.0",
-    "grunt-mocha-test": "^0.11.0",
-    "grunt-release": "^0.13.0",
-    "jsondiffpatch": "^0.1.4",
-    "lodash": "^3.0.0",
-    "load-grunt-tasks": "^0.3.0",
-    "xsd-schema-validator": "^0.3.0"
+    "async": "^3.1.0",
+    "bpmn-moddle": "^6.0.0",
+    "chai": "^4.2.0",
+    "eslint": "^6.1.0",
+    "eslint-plugin-mocha": "^6.0.0",
+    "glob": "^7.1.4",
+    "grunt": "^1.0.4",
+    "grunt-cli": "^1.3.2",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-eslint": "^22.0.0",
+    "grunt-mocha-test": "^0.13.3",
+    "grunt-release": "^0.14.0",
+    "jsondiffpatch": "^0.3.11",
+    "load-grunt-tasks": "^5.1.0",
+    "lodash": "^4.17.15",
+    "xsd-schema-validator": "^0.6.0"
   }
 }
